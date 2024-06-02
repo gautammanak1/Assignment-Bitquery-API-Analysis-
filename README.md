@@ -1,6 +1,7 @@
-# Analysis of the Binance Money Laundering Scandal: An On-Chain Perspective
+# Analysis of the Binance Money Laundering Scandal: An On-Chain Perspective 
 
 ## Introduction
+[Binance money laundering scandal explained: What to know](https://www.techtarget.com/whatis/feature/Binance-money-laundering-scandal-explained-What-to-know)
 
 In November 2023, Binance, one of the largest cryptocurrency exchanges globally, faced federal charges in the U.S. for fraud and money laundering. The Department of Justice (DOJ) accused Binance and its CEO, Changpeng Zhao, of facilitating vast flows of illicit funds from countries such as Russia, Iran, and Cuba. This scandal, following closely on the heels of the FTX collapse, has shaken the crypto world and underscored the urgent need for regulatory oversight.
 
